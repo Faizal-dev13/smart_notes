@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TradingLog AI | Smart Analysis Notes",
-  description: "Jurnal trading cerdas dengan analisis AI untuk memaksimalkan profit.",
+  title: "Journal Backtest Trading",
+  description: "Sesuaikan jurnal backtest trading Anda untuk hasil maksimal.",
 };
 
 export default function RootLayout({
