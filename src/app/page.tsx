@@ -155,7 +155,7 @@ export default function Home() {
           <div className="fixed inset-0 z-[999] bg-black/60 backdrop-blur-sm flex items-center justify-center">
             <div className="bg-[#0A0D0E] p-8 rounded-3xl border border-emerald-500/20 flex flex-col items-center">
               <Loader2 className="animate-spin text-emerald-500 mb-4" size={32} />
-              <p className="text-[9px] font-black uppercase tracking-widest">Syncing...</p>
+              <p className="text-[9px] font-black uppercase tracking-widest">Processing...</p>
             </div>
           </div>
         )}
